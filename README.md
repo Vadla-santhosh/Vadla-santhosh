@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vadla-santhosh
-- 👀 I’m interested in Data Analyst
+- 👀 I’m a Data Analyst Enthusiasam
 - 🌱 I’m currently learning Data Science at Teks Acaademy
 - 💞️ I’m looking to collaborate on Data Analyst projets
 - 📫 How to reach me https://www.linkedin.com/in/santhosh-vadla-62a8b323a/
